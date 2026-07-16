@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1302813982.svg)](https://doi.org/10.5281/zenodo.21398735)
+
 # Recursive Adaptive System (RAS) – Toy Simulation
 
 This repository contains the simulation code for the toy example presented in the paper:
